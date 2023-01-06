@@ -5,11 +5,11 @@
   margin : 5px;
 }
 .green{
-  background-color: green;
+  background-color: #008000;
 }
 .red{
-    background-color: red;
+    background-color: #ff0000;
 }
 .blue{
-    background-color: blue;
+    background-color: #0000ff;
 }
